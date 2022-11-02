@@ -6,6 +6,7 @@
 
 :root {
   --bg-body:#121214;
+  --bd-h2: #746615;
 }
 
 ul {
@@ -38,5 +39,5 @@ header {
 
 .card h2 {
   padding: 8px 16px;
-  border: 1px s;
+  border: 1px solid ;
 }
