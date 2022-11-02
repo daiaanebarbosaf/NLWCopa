@@ -13,6 +13,7 @@
 
   --tt-card-h2: #F7DD43;
   --tt-card-span: #e1e1e6;
+  --tt-card-ul-li-strong:#E1E1E6;
 
 }
 
@@ -80,4 +81,12 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
+}
+
+.card ul li strong {
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 125%;
+
+  color: var(--tt-card-ul-li-strong);
 }
