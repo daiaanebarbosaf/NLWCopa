@@ -77,6 +77,12 @@ header {
   text-transform: uppercase;
 }
 
+.card ul {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
 .card ul li {
   display: flex;
   align-items: center;
@@ -89,4 +95,9 @@ header {
   line-height: 125%;
 
   color: var(--tt-card-ul-li-strong);
+}
+
+.card ul li + li {
+  padding-top: 24px;
+  border-top: 1px solid red;
 }
