@@ -10,6 +10,9 @@
 
   --bd-h2: #746615;
   --bd-card: #f7dd43;
+
+  --tt-card-h2: #F7DD43;
+
 }
 
 ul {
@@ -57,4 +60,6 @@ header {
   width: fit-content;
   margin-inline: auto;
   margin-bottom: 53px;
+
+  color: var(--tt-card-h2);
 }
