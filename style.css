@@ -15,3 +15,7 @@ body {
   width: fit-content;
   margin: 52px auto;
 }
+
+header {
+  margin-bottom: 63px;
+}
