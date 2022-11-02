@@ -6,6 +6,7 @@
 
 :root {
   --bg-body:#121214;
+  --bg-card: #1d1c19;
   --bd-h2: #746615;
 }
 
@@ -35,6 +36,8 @@ header {
    border: 1px solid green; 
    padding: 32px 23px;
    text-align: center;
+
+
 }
 
 .card h2 {
