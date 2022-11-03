@@ -19,7 +19,7 @@ document.querySelector("#app").innerHTML = `
   </header>
   <main id="cards">
     ${createCard("24/11", "quinta")}
-    ${createCard()}
+    ${createCard("28/11", "segunda")}
     ${createCard()}
   </main>
 `
