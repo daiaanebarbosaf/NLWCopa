@@ -1,3 +1,9 @@
+function createGame() {
+  return `
+  
+  `
+}
+
 function createCard(date, day){
   return `
     <div class="card">
