@@ -26,14 +26,13 @@ document.querySelector("#app").innerHTML = `
     <img src="./assets/logo.svg" alt="Logo da NLW Copa" />
   </header>
   <main id="cards">
-    ${createCard("24/11", "quinta", 
-      createGame('brasil', '16:00', 'serbia')
+    ${createCard("24/11", "quinta", createGame("brasil", "16:00", "serbia"))}
+    ${createCard(
+      "28/11",
+      "segunda",
+      createGame("switzerland", "13:00", "brasil") +
+      createGame("portugal", "16:00", "uruguay")
     )}
-    ${createCard("28/11", "segunda", 
-      createGame()
-    )}
-    ${createCard("02/12", "sexta", 
-      createGame()
-    )}
+    ${createCard("02/12", "sexta", createGame("brasil", "16:00", "cameroon"))}
   </main>
 `
