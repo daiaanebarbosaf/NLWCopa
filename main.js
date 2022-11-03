@@ -20,6 +20,6 @@ document.querySelector("#app").innerHTML = `
   <main id="cards">
     ${createCard("24/11", "quinta")}
     ${createCard("28/11", "segunda")}
-    ${createCard()}
+    ${createCard("02/12", "sexta")}
   </main>
 `
