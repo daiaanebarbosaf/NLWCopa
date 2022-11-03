@@ -1,7 +1,7 @@
 function createCard(date, day){
   return `
     <div class="card">
-      <h2>${date} <span>quinta</span></h2>
+      <h2>${date} <span>${day}</span></h2>
       <ul>
         <li>
           <img src="./assets/icon-brasil.svg" alt="Bandeira do Brasil" />
