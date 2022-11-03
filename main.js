@@ -1,3 +1,9 @@
+function createCard(){
+  return`
+  
+  `
+}
+
 document.querySelector("#app").innerHTML = `
   <header>
     <img src="./assets/logo.svg" alt="Logo da NLW Copa" />
