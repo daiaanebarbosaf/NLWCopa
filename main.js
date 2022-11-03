@@ -1,14 +1,5 @@
 function createCard(){
-  return`
-  
-  `
-}
-
-document.querySelector("#app").innerHTML = `
-  <header>
-    <img src="./assets/logo.svg" alt="Logo da NLW Copa" />
-  </header>
-  <main id="cards">
+  return `
     <div class="card">
       <h2>24/11 <span>quinta</span></h2>
       <ul>
@@ -19,5 +10,14 @@ document.querySelector("#app").innerHTML = `
         </li>
       </ul>
     </div>
+  `
+}
+
+document.querySelector("#app").innerHTML = `
+  <header>
+    <img src="./assets/logo.svg" alt="Logo da NLW Copa" />
+  </header>
+  <main id="cards">
+    ${(createCard())}
   </main>
 `
