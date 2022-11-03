@@ -1,6 +1,12 @@
 function createGame() {
   return `
-  
+    <li>
+      <img src="./assets/icon-brasil.svg" alt="Bandeira do Brasil" />
+
+      <strong>16:00</strong>
+      
+      <img src="./assets/icon-serbia.svg" alt="Bandeira da Serbia" />
+    </li>
   `
 }
 
@@ -9,11 +15,7 @@ function createCard(date, day){
     <div class="card">
       <h2>${date} <span>${day}</span></h2>
       <ul>
-        <li>
-          <img src="./assets/icon-brasil.svg" alt="Bandeira do Brasil" />
-          <strong>16:00</strong>
-          <img src="./assets/icon-serbia.svg" alt="Bandeira da Serbia" />
-        </li>
+
       </ul>
     </div>
   `
