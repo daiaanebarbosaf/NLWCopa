@@ -45,6 +45,11 @@ header {
   text-align: center;
 }
 
+#cards {
+  display: flex;
+  flex-direction: column;
+}
+
 .card {
   /*border: 1px solid green;*/
   padding: 32px 23px;
