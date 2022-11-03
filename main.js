@@ -1,4 +1,4 @@
-function createCard(){
+function createCard(date, day){
   return `
     <div class="card">
       <h2>24/11 <span>quinta</span></h2>
