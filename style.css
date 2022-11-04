@@ -113,6 +113,7 @@ header {
 }
 
 .card ul li strong:hover,
-.card ul li img {
+.card ul li img:hover {
   transform: scale(1.1);
 }
+
