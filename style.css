@@ -25,7 +25,8 @@ body.blue {
 
 body.green {
     --bd-card: #047C3F;
-    --bd-h2: #047C3F; 
+    --bd-h2: #047C3F;
+    --bg-card: #1A1F1B; 
 }
 
 ul {
