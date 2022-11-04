@@ -129,6 +129,14 @@ header {
   animation: appear .2s forwards;
 }
 
+.card:nth-child(2){
+  animation-delay: .2s;
+}
+
+.card:nth-child(3){
+  animation-delay: .4s;
+}
+
 @keyframes appear {
   0% {
     transform: translateY(-50px);
