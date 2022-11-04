@@ -17,7 +17,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 
 <br>
 
-![prewiew](github/prewiew.PNG)
+![prewiew](prewiew.png)
 
 ## 🚀 Tecnologias
 
