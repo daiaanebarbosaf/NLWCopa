@@ -125,11 +125,12 @@ header {
 }
 
 .card {
-  animation: appear .7s;
+  animation: appear .2s;
 }
 
 @keyframes appear {
   0% {
+    transform: translateY(-50px);
     opacity: 0;
   }
 
