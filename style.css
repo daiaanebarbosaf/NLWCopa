@@ -40,9 +40,12 @@ ul {
 body {
   background-color: var(--bg-body);
   background-image: var(--bg-image);
-  /*eixo X é o eixo horizontal*/
+  /*eixo X é o eixo horizontal
   background-position-x: center ;
-  background-position-y: -715px;
+  background-position-y: -715px;*/
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 body * {
@@ -52,7 +55,8 @@ body * {
 #app {
   /*border: 1px solid red;*/
   width: fit-content;
-  margin: 52px auto;
+  margin: auto;
+  padding: 52px;
 }
 
 header {
