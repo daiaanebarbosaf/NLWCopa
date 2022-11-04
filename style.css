@@ -125,7 +125,8 @@ header {
 }
 
 .card {
-  animation: appear .2s;
+  opacity: 0;
+  animation: appear .2s forwards;
 }
 
 @keyframes appear {
