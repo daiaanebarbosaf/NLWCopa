@@ -19,10 +19,8 @@
 }
 
 body.blue {
-    --bd-card: #f7dd43;
-    --bd-h2: #746615;
-
-    --tt-card-h2: #F7DD43;
+    --bd-card: #338AF3;
+    --bd-h2: #338AF3;
 }
 
 ul {
