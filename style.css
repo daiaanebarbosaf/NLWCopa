@@ -15,6 +15,7 @@
   --tt-card-h2: #F7DD43;
   --tt-card-span: #e1e1e6;
   --tt-card-ul-li-strong:#E1E1E6;
+  --bg-image: url(./assets/bg-yellow.svg);
 
 }
 
@@ -22,12 +23,14 @@ body.blue {
     --bd-card: #338AF3;
     --bd-h2: #338AF3;
     --bg-card: #202024;
+    --bg-image: url(./assets/bg-blue.svg);
 }
 
 body.green {
     --bd-card: #047C3F;
     --bd-h2: #047C3F;
     --bg-card: #1A1F1B; 
+    --bg-image: url(./assets/bg-green.svg);
 }
 
 ul {
@@ -36,7 +39,7 @@ ul {
 
 body {
   background-color: var(--bg-body);
-  background-image: url(./assets/bg.svg);
+  background-image: var(--bg-image);
   /*eixo X é o eixo horizontal*/
   background-position-x: center ;
   background-position-y: -715px;
