@@ -23,6 +23,11 @@ body.blue {
     --bd-h2: #338AF3;
 }
 
+body.green {
+    --bd-card: #047C3F;
+    --bd-h2: #047C3F; 
+}
+
 ul {
   list-style: none;
 }
