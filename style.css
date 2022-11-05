@@ -169,12 +169,10 @@ header {
 }
 
 
-
 /*TOGLEE*/
 
 .toggle {
-  margin-top: 2rem;
-  margin-right: 8rem;
+  display: flex;
 }
 
 input[type=checkbox]{
