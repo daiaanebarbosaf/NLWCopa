@@ -15,9 +15,7 @@ html {
   --tt-card-h2: #F7DD43;
   --tt-card-span: #e1e1e6;
   --tt-card-ul-li-strong:#E1E1E6;
-  --bg-image: url(./assets/bg-green.svg);
-  --bg-blue: url(./assets/bg-blue.svg);
-
+  --bg-image: url(./assets/bg-blue.svg);
 }
 
 /*body.blue {
