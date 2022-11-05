@@ -70,6 +70,7 @@ const initialColors = {
 }
 
 const darkMode = {
+  bg: "#B3A659",
   bdCard: "#338AF3",
   bdH2: "#338AF3",
   bgCard: "#202024"
