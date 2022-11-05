@@ -56,7 +56,7 @@ document.querySelector("#cards").innerHTML =
 
 
 const html = document.querySelector("html")
-
+const body = 
 const checkbox = document.querySelector("input[name=theme]")
 
 const getStyle = (element, style) =>
@@ -70,7 +70,7 @@ const initialColors = {
 }
 
 const darkMode = {
-  bg: "#B2A659",
+  bg: "--bg-image",
   bdCard: "#338AF3",
   bdH2: "#338AF3",
   bgCard: "#202024"
