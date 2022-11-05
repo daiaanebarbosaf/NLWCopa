@@ -62,16 +62,16 @@ const getStyle = (element, style) =>
   window.getComputedStyle(element).getPropertyValue(style)
 
 const initialColors = {
-  bg: getStyle(html, "--bg"),
-  bgPanel: getStyle(html, "--bg-panel"),
-  colorHeadings: getStyle(html, "--color-headings"),
-  colorText: getStyle(html, "--color-text")
+  bg: getStyle(html, "--bg-image"),
+  bdCard: getStyle(html, "--bd-card"),
+  bdH2: getStyle(html, "--bd-h2"),
+  bgCard: getStyle(html, "--bg-card")
 }
 
 const darkMode = {
-  bg: "#5B4B8A",
-  bgPanel: "#5B4B8A",
-  colorHeadings: "#fff0f6",
+  bg: "./assets/bg-blue.svg",
+  bdCard: "#338AF3",
+  bdH2: "#338AF3",
   colorText: "#fff0f6"
 }
 
