@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-:root {
+html {
   --bg-body:#121214;
   --bg-card: #1d1c19;
 
@@ -188,7 +188,7 @@ label {
   text-indent: -9999px;
   width: 52px;
   height: 27px;
-  background: var(--color-headings);
+  background: var(--bd-h2);
   float: right;
   border-radius: 100px;
   position: relative;
@@ -207,7 +207,7 @@ label::after{
 }
 
 input:checked + label {
-  background-color: var(--color-headings);
+  background-color: var(--bd-card);
 }
 
 input:checked + label::after {
