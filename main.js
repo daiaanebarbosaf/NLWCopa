@@ -69,10 +69,10 @@ const initialColors = {
 }
 
 const darkMode = {
-  bg: "./assets/bg-blue.svg",
+  bg: "--bg-blue",
   bdCard: "#338AF3",
   bdH2: "#338AF3",
-  colorText: "#fff0f6"
+  bgCard: "#202024"
 }
 
 const transformKey = key => "--" + key.replace(/([A-Z])/, "-$1").toLowerCase()
