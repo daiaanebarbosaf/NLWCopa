@@ -15,11 +15,12 @@ html {
   --tt-card-h2: #F7DD43;
   --tt-card-span: #e1e1e6;
   --tt-card-ul-li-strong:#E1E1E6;
-  --bg-image: url(./assets/bg-yellow.svg);
+  --bg-image: url(./assets/bg-green.svg);
+  --bg-blue: url(./assets/bg-blue.svg);
 
 }
 
-body.blue {
+/*body.blue {
     --bd-card: #338AF3;
     --bd-h2: #338AF3;
     --bg-card: #202024;
@@ -31,7 +32,7 @@ body.green {
     --bd-h2: #047C3F;
     --bg-card: #1A1F1B; 
     --bg-image: url(./assets/bg-green.svg);
-}
+}*/
 
 ul {
   list-style: none;
