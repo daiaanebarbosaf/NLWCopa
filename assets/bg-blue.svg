@@ -1,4 +1,10 @@
-<svg width="1024" height="753" viewBox="0 0 1024 753" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg 
+  width="1024" 
+  height="753" 
+  viewBox="0 0 1024 753" 
+  fill="none" 
+  xmlns="http://www.w3.org/2000/svg"
+>
 <g opacity="0.2" filter="url(#filter0_f_175_1885)">
 <ellipse cx="512.5" cy="34" rx="670.5" ry="350" fill="#338AF3"/>
 </g>
