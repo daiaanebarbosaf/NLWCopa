@@ -381,36 +381,114 @@
       height="1500.38" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"
     >
       <feFlood 
-        flood-opacity="0" result="BackgroundImageFix"
+        flood-opacity="0" 
+        result="BackgroundImageFix"
       />
-      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feGaussianBlur stdDeviation="200.095" result="effect1_foregroundBlur_175_1885"/>
-</filter>
-<linearGradient id="paint0_linear_175_1885" x1="52.5" y1="270" x2="52.5" y2="581.381" gradientUnits="userSpaceOnUse">
-<stop stop-color="#F7DD43"/>
-<stop offset="1" stop-color="#F7DD43" stop-opacity="0"/>
-</linearGradient>
-<linearGradient id="paint1_linear_175_1885" x1="52.5" y1="270" x2="52.5" y2="581.381" gradientUnits="userSpaceOnUse">
-<stop stop-color="#F7DD43"/>
-<stop offset="1" stop-color="#F7DD43" stop-opacity="0"/>
-</linearGradient>
-<linearGradient id="paint2_linear_175_1885" x1="52.5" y1="270" x2="52.5" y2="581.381" gradientUnits="userSpaceOnUse">
-<stop stop-color="#F7DD43"/>
-<stop offset="1" stop-color="#F7DD43" stop-opacity="0"/>
-</linearGradient>
-<linearGradient id="paint3_linear_175_1885" x1="52.5" y1="270" x2="52.5" y2="581.381" gradientUnits="userSpaceOnUse">
-<stop stop-color="#F7DD43"/>
-<stop offset="1" stop-color="#F7DD43" stop-opacity="0"/>
-</linearGradient>
-<linearGradient id="paint4_linear_175_1885" x1="52.5" y1="270" x2="52.5" y2="581.381" gradientUnits="userSpaceOnUse">
-<stop stop-color="#F7DD43"/>
-<stop offset="1" stop-color="#F7DD43" stop-opacity="0"/>
-</linearGradient>
-<linearGradient id="paint5_linear_175_1885" x1="52.5" y1="270" x2="52.5" y2="581.381" gradientUnits="userSpaceOnUse">
-<stop stop-color="#F7DD43"/>
-<stop offset="1" stop-color="#F7DD43" stop-opacity="0"/>
-</linearGradient>
-<linearGradient id="paint6_linear_175_1885" x1="52.5" y1="270" x2="52.5" y2="581.381" gradientUnits="userSpaceOnUse">
+      <feBlend 
+        mode="normal" 
+        in="SourceGraphic" 
+        in2="BackgroundImageFix" 
+        result="shape"
+      />
+      <feGaussianBlur 
+        stdDeviation="200.095" result="effect1_foregroundBlur_175_1885"
+      />
+    </filter>
+    <linearGradient 
+      id="paint0_linear_175_1885" 
+      x1="52.5" 
+      y1="270" 
+      x2="52.5" 
+      y2="581.381" 
+      gradientUnits="userSpaceOnUse"
+    >
+      <stop 
+        stop-color="#F7DD43"
+      />
+      <stop 
+        offset="1" 
+        stop-color="#F7DD43" 
+        stop-opacity="0"
+      />
+    </linearGradient>
+    <linearGradient 
+      id="paint1_linear_175_1885" 
+      x1="52.5" 
+      y1="270" 
+      x2="52.5" 
+      y2="581.381" 
+      gradientUnits="userSpaceOnUse"
+    >
+      <stop 
+        stop-color="#F7DD43"
+      />
+      <stop 
+        offset="1" 
+        stop-color="#F7DD43" 
+        stop-opacity="0"
+      />
+    </linearGradient>
+    <linearGradient 
+      id="paint2_linear_175_1885" 
+      x1="52.5" 
+      y1="270" 
+      x2="52.5" 
+      y2="581.381" 
+      gradientUnits="userSpaceOnUse"
+    >
+      <stop stop-color="#F7DD43"/>
+      <stop 
+        offset="1" 
+        stop-color="#F7DD43" 
+        stop-opacity="0"
+      />
+    </linearGradient>
+    <linearGradient 
+      id="paint3_linear_175_1885" 
+      x1="52.5" 
+      y1="270" 
+      x2="52.5" 
+      y2="581.381" 
+      gradientUnits="userSpaceOnUse"
+    >
+      <stop stop-color="#F7DD43"/>
+      <stop 
+        offset="1" 
+        stop-color="#F7DD43" 
+        stop-opacity="0"
+      />
+    </linearGradient>
+    <linearGradient 
+      id="paint4_linear_175_1885" 
+      x1="52.5" 
+      y1="270" 
+      x2="52.5" 
+      y2="581.381" 
+      gradientUnits="userSpaceOnUse"
+    >
+      <stop stop-color="#F7DD43"/>
+      <stop 
+        offset="1" 
+        stop-color="#F7DD43" 
+        stop-opacity="0"
+      />
+    </linearGradient>
+    <linearGradient 
+      id="paint5_linear_175_1885" 
+      x1="52.5" 
+      y1="270" 
+      x2="52.5" 
+      y2="581.381" 
+      gradientUnits="userSpaceOnUse"
+    >
+      <stop stop-color="#F7DD43"/>
+      <stop 
+        offset="1" 
+        stop-color="#F7DD43" 
+        stop-opacity="0"
+      />
+    </linearGradient>
+    <linearGradient id="paint6_linear_175_1885" x1="52.5" y1="270" x2="52.5" y2="581.381" gradientUnits="userSpaceOnUse">
 <stop stop-color="#F7DD43"/>
 <stop offset="1" stop-color="#F7DD43" stop-opacity="0"/>
 </linearGradient>
