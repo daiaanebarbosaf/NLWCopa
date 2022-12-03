@@ -647,10 +647,21 @@
         stop-opacity="0"
       />
     </linearGradient>
-<linearGradient id="paint17_linear_175_1885" x1="52.5" y1="270" x2="52.5" y2="581.381" gradientUnits="userSpaceOnUse">
-<stop stop-color="#F7DD43"/>
-<stop offset="1" stop-color="#F7DD43" stop-opacity="0"/>
-</linearGradient>
+    <linearGradient 
+      id="paint17_linear_175_1885" 
+      x1="52.5" 
+      y1="270" 
+      x2="52.5" 
+      y2="581.381" 
+      gradientUnits="userSpaceOnUse"
+    >
+      <stop stop-color="#F7DD43"/>
+      <stop 
+        offset="1" 
+        stop-color="#F7DD43" 
+        stop-opacity="0"
+      />
+    </linearGradient>
 <linearGradient id="paint18_linear_175_1885" x1="52.5" y1="270" x2="52.5" y2="581.381" gradientUnits="userSpaceOnUse">
 <stop stop-color="#F7DD43"/>
 <stop offset="1" stop-color="#F7DD43" stop-opacity="0"/>
